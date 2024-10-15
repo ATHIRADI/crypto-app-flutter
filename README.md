@@ -1,4 +1,4 @@
-<h1>Flutter Cryptocurrency App Summary</h1>
+<h1>Cryptocurrency App Flutter</h1>
     <p>This project is a cryptocurrency tracking app built with Flutter, which fetches real-time data from the <a href="https://www.coingecko.com/en/api">CoinGecko API</a>. It displays a list of cryptocurrencies with their current prices, price changes, and market details. Users can view details for individual cryptocurrencies.</p>
     <h2>Key Features</h2>
     <ul>
